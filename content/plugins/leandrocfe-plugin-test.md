@@ -1,6 +1,6 @@
 ---
 name: Plugin Test
-slug: plugin-test
+slug: plugin-test-new-slug
 author_slug: leandrocfe
 categories:
   - form-builder
